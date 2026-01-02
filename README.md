@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am MD Sakil Uddin, a tech enthusiast and a B.Tech graduate. 
+Hi, I am MD Sakil Uddin, a Blockchain developer with good protocol level knoledge. 
 
 
 ## 🌐 Socials:
