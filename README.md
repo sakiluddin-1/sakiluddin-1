@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am MD Sakil Uddin, a Blockchain developer with good protocol level knoledge. 
+Hi, I am MD Sakil Uddin, a Blockchain developer with good protocol level knowledge. 
 
 
 ## 🌐 Socials:
