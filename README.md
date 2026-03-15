@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is MD Sakil Uddin
 =======================================================================================================================================
 
-Smart Contract Developer
+Web3 Developer
 ------------------------
 
 I am a blockchain and full-stack developer focused on building decentralized applications and modern web systems. I specialize in smart contract development with Solidity and have hands-on experience designing and implementing token standards such as Fungible Tokens (FT), Non-Fungible Tokens (NFT), and DeFi protocols.
