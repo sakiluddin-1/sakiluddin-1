@@ -27,6 +27,6 @@ I am particularly interested in decentralized finance, protocol design, and bloc
 
 <b>My GitHub Stats</b>
 
-<a align="center" href="http://www.github.com/sakiluddin-1"><img src="https://github-readme-stats.vercel.app/api?username=sakiluddin-1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sakiluddin-1's GitHub stats" /></a>
+<a align="center" href="http://www.github.com/sakiluddin-1"><img src="https://github-readme-stats.vercel.app/api?username=sakiluddin-1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2" /></a>
 
 
