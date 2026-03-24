@@ -12,7 +12,7 @@ My technical stack includes JavaScript, React, Next.js, HTML, CSS, Tailwind CSS,
 I am particularly interested in decentralized finance, protocol design, and blockchain infrastructure, and I actively contribute to open-source projects while continuously improving my skills in building secure, scalable, and user-friendly Web3 applications.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio-3-d-ashen-mu.vercel.app/)
+* 🖥️  See my portfolio at [sakiluddin.dev](http://portfolio-3-d-ashen-mu.vercel.app/)
 * ✉️  You can contact me at [sakiluddin0045@gmail.com](mailto:sakiluddin0045@gmail.com)
 * 👥  I'm looking to collaborate on smart contract projects
 
